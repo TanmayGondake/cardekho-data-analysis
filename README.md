@@ -1,9 +1,12 @@
- # -cardekho-data-Data-Analysis (Interactive Dashboard creation using Power Bi)
+ # cardekho-data-Data-Analysis (Interactive Dashboard creation using Power Bi)
 **Project Objective:**
 
 The objective of the **CarDekho Data Analysis project** is to analyze automotive sales and customer data to uncover key insights that can drive business decisions. By leveraging data analysis techniques, the project aims to identify trends in car purchases, customer preferences, and regional market performance. The goal is to provide actionable insights into sales performance, inventory management, and marketing strategies, ultimately helping CarDekho optimize its offerings, enhance customer experience, and improve overall business outcomes.
+
+
 ## Dataset Used
-- <a href="https://github.com/TanmayGondake/cardekho-data-analysis/blob/main/cardekho_data.csv">Shopping Trends Data</a>
+- <a href="https://github.com/TanmayGondake/cardekho-data-analysis/blob/main/cardekho_data.csv">CarDekho Data</a>
+
 
 ## **Questions**
 
@@ -14,6 +17,7 @@ The objective of the **CarDekho Data Analysis project** is to analyze automotive
    - What is the proportion of cars sold by private sellers compared to dealers?
    - What is the price range for cars by their manufacturing year?
    - How do car prices vary by make, model, and year?
+
 
 ## **Process**
 
@@ -28,9 +32,17 @@ The objective of the **CarDekho Data Analysis project** is to analyze automotive
 
 
 
+## **Home**
+![cardekho homepage](https://github.com/user-attachments/assets/35808c17-0734-4c4d-8905-2de2053e7600)
+
+
 ## **Dashboard**
 
 ![cardekho dashboard](https://github.com/user-attachments/assets/390be70a-27c5-4aa9-9339-fc637a480bc8)
+
+
+## **Toltips**
+![cardekho toltips](https://github.com/user-attachments/assets/b00404d6-8d36-4241-b23d-eb9548bf6a43)
 
 
 
